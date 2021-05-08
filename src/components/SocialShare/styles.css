@@ -1,0 +1,8 @@
+.shoppies-social-links ul{
+    list-style: none;
+    padding-left: 0;
+}
+.shoppies-social-links a{
+    color: inherit;
+    text-decoration: none;
+}
