@@ -1,6 +1,6 @@
 
 ##  Shopify Frontend Internship Challenge - Fall 2021
-The website can be viewed here https://shoppies-c6ygye14x.vercel.app/
+The website can be viewed here https://shoppies-falomoore.vercel.app/
 
 ## Product Requirements
 
